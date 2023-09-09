@@ -1,4 +1,5 @@
 # A Simple Concordance Program
+
 | Submitted | 2005-08-18 |
 | Updated | 2008-01-31 |
 | Developer | Alan Reed |
@@ -13,6 +14,7 @@
 This FREE, Windows-based program lets you create word lists and search natural language text files for words, phrases, and patterns. SCP is a concordance and word listing program that is able to read texts written in many languages.There are built-in alphabets for English, French, German, Polish, Greek, Russian, etc. SCP also contains an alphabet editor which you can use to create alphabets for any other language.
 
 # AGTK (Annotation Graph Toolkit)
+
 | Submitted | 2005-08-18 |
 | Updated | 2008-01-31 |
 | URL | http://agtk.sourceforge.net/ |
@@ -24,6 +26,7 @@ This FREE, Windows-based program lets you create word lists and search natural l
 An annotation graph toolkit. Also available for Mac OS X; a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs.
 
 # AMPLE
+
 | Submitted | 2005-08-18 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -36,6 +39,7 @@ An annotation graph toolkit. Also available for Mac OS X; a suite of software co
 A morphological parser for linguistic exploration; When given the necessary information about the morphology of a language, AMPLE will analyze each word in a text and break it into morphemes. AMPLE is oriented to the "item and arrangement" approach to the description of morphological phenomena. It can handle nonconcatenative phenomena only indirectly. AMPLE works together with STAMP (OPAC 15) for Computer Assisted Related Language Adaptation (CARLA). It can also be used in conjunction with ITF (OPAC 17) for publishing glossed texts in interlinear form.
 
 # ATP (Annotated Text Processor)
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://www.indiana.edu/~aisri/projects/atp/atp.html |
@@ -45,6 +49,7 @@ A morphological parser for linguistic exploration; When given the necessary info
 Text processor designed to manage interlinear text and to support the operations of several kinds.
 
 # Alembic Workbench (AWB) annotation environment
+
 | Submitted | 2005-08-18 |
 | Updated | 2008-01-31 |
 | Developer | Natural Language Group at MITRE |
@@ -55,6 +60,7 @@ Text processor designed to manage interlinear text and to support the operations
 AWB is an annotation environment developed by the MITRE Corporation. It is available by way of a no cost public license; development of tagged corpora; a multi-lingual corpus annotation development tool
 
 # Amadeus
+
 | Unicode Compliant | n/a |
 | Submitted | 2006-11-15 |
 | Updated | 2006-11-22 |
@@ -71,6 +77,7 @@ Amadeus II is a very powerful sound editor for Macintosh. It runs on MacOS 9.2 a
 Other features include raw sound data import/export, possibility to split and join files together, and real-time spectral analysis and oscilloscope.
 
 # Annotate
+
 | Submitted | 2005-08-20 |
 | Updated | 2008-01-31 |
 | Developer | Thorsten Brants, Oliver Plaehn |
@@ -82,6 +89,7 @@ Other features include raw sound data import/export, possibility to split and jo
 An easy-to-use, comfortable, customizable, and graphical tool for syntactic corpus annotation. Annotate interacts with an external parser/tagger running inthe background.
 
 # Anvil
+
 | Submitted | 2005-08-20 |
 | Updated | 2005-09-06 |
 | Developer | Michael Kipp |
@@ -94,6 +102,7 @@ An easy-to-use, comfortable, customizable, and graphical tool for syntactic corp
 Generic video annotation tool with multiple layers and cross-level links
 
 # Audacity
+
 | Submitted | 2007-12-12 |
 | Updated | 2007-12-12 |
 | Developer | Audacity Development Team |
@@ -107,6 +116,7 @@ Generic video annotation tool with multiple layers and cross-level links
 Audacity is free, open source software for recording and editing sounds. It is available for Mac OS X, Microsoft Windows, GNU/Linux, and other operating systems. You can use Audacity to record live audio,convert tapes and records into digital recordings or CDs, edit Ogg Vorbis, MP3, and WAV sound files cut, copy, splice, and mix sounds together, change the speed or pitch of a recording, and more.
 
 # Audiamus
+
 | Unicode Compliant | Untested |
 | Submitted | 2004-02-14 |
 | Updated | 2008-01-31 |
@@ -126,6 +136,7 @@ Audiamus instantiates links between texts and media, based on timecodes derived 
 With Audiamus the user can click on any sentence or chunk in the corpus and hear it or view the video. Version 2.3 adds the ability to repeat the played chunk and to slow down the player.
 
 # Audition
+
 | Submitted | 2006-11-17 |
 | Updated | 2006-11-22 |
 | Developer | Syntrillium |
@@ -140,6 +151,7 @@ With Audiamus the user can click on any sentence or chunk in the corpus and hear
 Formerly known as CoolEditPro, Adobe Audition has a range of functionality. You can move volume, pan, and effects controls as you listen, and record changes to your mix in real time, with real-time input monitoring. Produce high-resolution 24- or 32-bit files with sample rates up to 192kHz for HD- and DVD-quality audio. Build a customized collection of commands, scripts, and effects that are easily accessible via the Favorites menu or assignable keyboard shortcuts. Standard metadata fields are included, and custom metadata input panels can also be created. Easily restore recordings from old vinyl; remove microphone pops, hisses, hums, and other audio artifacts; fix clipped audio; and repair recordings with Click/Pop Eliminators, Noise Reduction, and more.
 
 # Berkeley Interlinear Text Collector (BITC)
+
 | Submitted | 2004-12-14 |
 | Updated | 2008-01-31 |
 | Developer | Ronald Sprouse |
@@ -154,6 +166,7 @@ BITC is a system for collecting interlinear texts and is especially designed for
 (Taken from website)
 
 # CLAN
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-07 |
 | Updated | 2008-01-31 |
@@ -167,6 +180,7 @@ BITC is a system for collecting interlinear texts and is especially designed for
 The CLAN Programs are downloaded, installed, and used as a single application. Functionally, however, CLAN has two parts. The first part is the CLAN editor which can be used to edit files in either CHAT or CA (Conversation Analysis) format. The editor also provides a wide range of additional functions, such as audio and video playback, linkage to audio and video, fonts for Roman and non-Roman orthographies, data validation, adding codes to files, and shipping data to other programs. The second part of CLAN is the set of data analysis programs. These programs are run from a separate window called the Commands window. The results of the analytic programs are sent to the CLAN Output window.
 
 # CLAware
+
 | Submitted | 2006-12-07 |
 | Updated | 2008-01-31 |
 | Developer | New Tribes Mission |
@@ -180,6 +194,7 @@ The CLAN Programs are downloaded, installed, and used as a single application. F
 Over the past two decades, New Tribes Mission has seen the tantalizing possibilities of using computers to assist tribal workers in the learning of tribal culture and language. In the business world, computer hardware and software have both evolved at astounding rates. Unfortunately, there is no mass market for software designed specifically for the culture/language learner. NTM-PNG began the CLAware project to provide New Tribes missionaries with a tool designed specifically for NTM’s Culture and Language Acquisition program. Easy creation of culture events, creation of culture records related to the culture events, filing of the records in both standard and user-defined outlines, cross-referencing of text and sections of audio files, built-in picture and audio file processing, automatically generate a lexicon, synchronization of culture information between partners, and more.
 
 # CLaRK
+
 | Unicode Compliant | Yes |
 | Submitted | 2005-02-11 |
 | Updated | 2007-03-15 |
@@ -200,6 +215,7 @@ Version 3 has added features such as an XPath Debugger and optimised grammar and
 http://www.bultreebank.org/clark/news.html
 
 # Callisto
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://callisto.mitre.org/ |
@@ -213,6 +229,7 @@ Requires Java 1.4 or better to run.
 The Callisto annotation tool was developed to support linguistic annotation of textual sources for any Unicode-supported language. Callisto has been built with a modular design, (utilizing jATLAS) and utilizes standoff-annotation, allowing for unique tag-set definitions and domain dependent interfaces.
 
 # Conc
+
 | Unicode Compliant | unknown |
 | Submitted | 2004-01-26 |
 | Updated | 2008-01-31 |
@@ -237,6 +254,7 @@ so easy to use
 #### Cons
 only on Mac OS9!
 # DGgraph
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Matthias Trautner Kromann |
@@ -247,6 +265,7 @@ only on Mac OS9!
 DGgraph is a PostScript library which is used to generate an arc graph drawing from a specification of a dependency graph (syntax tree).
 
 # EUDICO
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | MPI |
@@ -257,6 +276,7 @@ DGgraph is a PostScript library which is used to generate an arc graph drawing f
 Allows users to compose their own annotation layers (and make their own), bases on ACM (Abstract Corpus Model); can incorporate data from relational databases using JDBC, plain text files on file systems accessible locally or over NFS, proprietary systems accessible using a specific API; used to incorporate previously unused corpora into EUDICO, can map tools from that corpus to ACM, so that all EUDICO tools can be used w/new corpus; This software to be used on European MUMIS project and Spoken Dutch Corpus.
 
 # EXMARaLDA
+
 | Unicode Compliant | Fully compliant |
 | Submitted | 2004-02-05 |
 | Updated | 2008-01-31 |
@@ -274,6 +294,7 @@ Allows users to compose their own annotation layers (and make their own), bases 
 XML based system for transcription of spoken discourse. Java-based editor for entering transcriptions in partitur (musical score) notation. Ouput methods for printing partiturs, exporting partiturs to RTF and HTML, generating word and utterance lists. Import facilities for TASX, ELAN, Praat, text files, syncWriter and HIAT-DOS data. Export facilities for TASX, ELAN, Praat and Atlas Interchange Format.
 
 # Econv
+
 | Submitted | 2005-01-31 |
 | Updated | 2005-01-31 |
 | Developer | Max Planck Institute |
@@ -286,6 +307,7 @@ XML based system for transcription of spoken discourse. Java-based editor for en
 According to the software's manual, it "allows you to commute your data back and forth between Transcriber and Shoebox" so that you can benefit from the strengths of both formats.
 
 # Elan
+
 | Unicode Compliant | Full |
 | Submitted | 2004-04-22 |
 | Updated | 2008-01-31 |
@@ -321,6 +343,7 @@ Interface is a compromise between three different operating systems and is likel
 
 The XML format of the annotation files is fragile; direct modification by a text editor must be done carefully, as some things that should be legal XML are not accepted by ELAN.
 # Ellogon
+
 | Unicode Compliant | fully compliant |
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
@@ -340,6 +363,7 @@ Looks like it has many features.
 #### Cons
 Very confusing interface. How to get started doing things was not at all obvious.
 # Emacs
+
 | Unicode Compliant | some unicode support |
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
@@ -361,6 +385,7 @@ An extremely powerful text editor that has its own processing tools. Tools outsi
 #### Cons
 There is a learning curve. There are many quick start tips available on line and in GNU's and O'Reilly's Emacs books.
 # Emdros
+
 | Unicode Compliant | Partial compliance |
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
@@ -376,6 +401,7 @@ There is a learning curve. There are many quick start tips available on line and
 Emdros is an Open Source text database engine specializing in linguistic analyses and annotation of text. Emdros comes with a powerful query language for asking linguistically relevant questions of the data.
 
 # FIELD
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | E-MELD |
@@ -387,6 +413,7 @@ Emdros is an Open Source text database engine specializing in linguistic analyse
 Field Input Environment for Linguistic Data - Lexicon Version
 
 # Fastr
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Christian Jacquemin,    Groupe Langage et Cognition, CNRS-LIMSI |
@@ -398,6 +425,7 @@ Field Input Environment for Linguistic Data - Lexicon Version
 A tool for automatic indexing and for terminology extraction.
 
 # Filemaker Pro
+
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
 | Developer | Filemaker, Inc. |
@@ -411,6 +439,7 @@ A tool for automatic indexing and for terminology extraction.
 A few clicks will convert your Microsoft Excel spreadsheets and other files to FileMaker databases for easier searching, sorting, printing and reporting. The intuitive point-and-click interface helps you customize solutions and share them with ease. So whether you're tracking a simple contact list or multiple project tasks, FileMaker Pro helps you manage it all — faster and easier than ever before!
 
 # FontLab Studio
+
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
 | Developer | FontLab, Ltd. |
@@ -425,6 +454,7 @@ A few clicks will convert your Microsoft Excel spreadsheets and other files to F
 FontLab Studio 5 is our next-generation professional font editor for Mac and Windows. It is the comprehensive solution for font foundries, professional type designers, typographers and graphic design studios, allowing them to design type, create and modify fonts. FontLab Studio 5 supports all major outline font formats, including Type 1, TrueType, Multiple Master and OpenType.
 
 # GSearch
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Frank Keller |
@@ -436,6 +466,7 @@ FontLab Studio 5 is our next-generation professional font editor for Mac and Win
 Gsearch is a tool designed to facilitate the selection of sentences from text corpora by syntactic criteria, even where these corpora contain no prior syntactic markup.
 
 # GoldWave
+
 | Submitted | 2006-11-17 |
 | Updated | 2006-11-22 |
 | Developer | GoldWave |
@@ -450,6 +481,7 @@ Gsearch is a tool designed to facilitate the selection of sentences from text co
 Features include huge file editing (4GB and beyond on NTFS-formatted drives), high quality files (24 bit, 192kHz), real-time visuals (bar, waveform, spectrogram, spectrum, level meter...), non-destructive editing, noise reduction, an expressional evaluator to produce sound from equations, and more.
 
 # Grammar Explorer (grexplorer)
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://www.fb10.uni-bremen.de/anglistik/langpro/kpml/tools/grexplorer/grexplorer.htm |
@@ -460,6 +492,7 @@ Features include huge file editing (4GB and beyond on NTFS-formatted drives), hi
 A tool for learning about the coverage of large generation grammars; aimed currently at grammars written in the systemic-functional style; The operation of the tool is essentially as a coder: you, as the user, should select some sentence, or other grammatical unit, and attempt to `code' that unit using the terms of a grammar. The tool leads you through the grammar presenting the options that are available (&  you can ask for examples exhibiting the relevant grammatical choices); it also tells you the syntagmatic consequences of those choices (i.e., what structure is generated). If your coding is correct, then it should be possible to relate the structure you have generated to the original target unit. The Explorer differs from coding, or text annotation/markup, in that it provides access to the structural consequences of coding. This provides a natural check to the accuracy of any coding carried out. The Explorer also differs from an annotated corpus of examples, in that the examples it shows are all generated with the grammar that it contains.
 
 # Graphite
+
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
 | Developer | SIL, International |
@@ -473,6 +506,7 @@ A tool for learning about the coverage of large generation grammars; aimed curre
 Graphite is a project under development within SIL’s Non-Roman Script Initiative and Language Software Development groups to provide rendering capabilities for complex non-Roman writing systems. (Work began in 1997 under the code name WinRend.) The original goal was a system for the Windows platform; a port to Linux is currently underway. Graphite can be used to create “smart fonts” capable of displaying writing systems with various complex behaviors. With respect to the Text Encoding Model, Graphite handles the "Rendering" aspect of writing system implementation.
 
 # HIAT and HIAT-DOS
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Knrad Ehlich, Jochen Rehbein |
@@ -487,6 +521,7 @@ According to Thomas Schmidt,
 HIAT-DOS is an MS-DOS application, i.e. it will run on Windows, but without making use of the operating system's graphical user interface. It will not run on any other operating system. The main idea of the tool is to support the user in creating transcriptions in musical score notation, i.e. transcriptions where the contributions of different speakers are arranged on separate tiers making possible an intuitive  representation of simultaneous or overlapping speech events. Creating and editing such muscial score transcripts in standard text processing software can be tedious because changes, deletions and insertions often make necessary a complete re-arrangement of the whole system wrt line-wrapping etc. HIAT-DOS is meant to help in that task. A transcript that has been created in HIAT-DOS can be exported to RTF or HTML for further editing in a text processing software, printout, web display etc."
 
 # IBM MPEG-7 Annotation Tool
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-04 |
 | URL | http://www.alphaworks.ibm.com/aw.nsf/techs/videoannex |
@@ -496,6 +531,7 @@ HIAT-DOS is an MS-DOS application, i.e. it will run on Windows, but without maki
 Annotating video sequences with MPEG-7 metadata. Each shot in the video sequence can be annotated with static scene descriptions, key object descriptions, event descriptions, and other lexicon sets. The annotated descriptions are associated with each video shot and are put out and stored as MPEG-7 descriptions in an XML file. IBM MPEG-7 Annotation Tool can also open MPEG-7 files in order to display the annotations for the corresponding video sequence. IBM MPEG-7 Annotation Tool also allows customized lexicons to be created, saved, downloaded, and updated. IBM MPEG-7 Annotation Tool takes an MPEG video sequence as the required input source. The tool also requires a corresponding shot segmentation file, where the video sequence input is segmented into smaller units called video shots by detecting the scene cuts, dissolutions, and fadings. This shot file can be loaded into the tool from other sources or generated when the video input is first opened. After IBM MPEG-7 Annotation Tool performs shot detection on a video, the shot file can be saved in MPEG-7 schema for later use. As an alternative, the shot file can also be generated by the IBM CueVideo Shot Detection Tool Kit.
 
 # IDD
+
 | Submitted | 2007-12-29 |
 | Updated | 2008-01-31 |
 | Developer | American Indian Studies Research Institute |
@@ -520,6 +556,7 @@ Features of the program include:
     4) It is designed so that the user can export the database to any one of a number of specially formatted output files, enabling the user to provide the data in HTML/world-wide-web format, WordPerfect format, or standard ASCII format. Thus the dictionary database can be readily published both as a professionally formatted printed version and as a state-of-the-art professionally formatted electronic version.
 
 # IMDI Browser
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-08-23 |
 | URL | http://www.mpi.nl/IMDI/tools |
@@ -528,6 +565,7 @@ Features of the program include:
 IMDI tool to browse metadata descriptions.
 
 # IMDI Editor
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-08-23 |
 | URL | http://www.mpi.nl/IMDI/tools |
@@ -536,6 +574,7 @@ IMDI tool to browse metadata descriptions.
 IMDI tool to create IMDI metadata descriptions.
 
 # IT for MS-DOS
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -555,6 +594,7 @@ Provided the ability (in the early 1990s) to define an annotation format consist
 #### Cons
 Obsolete, due to its operating system (MS-DOS, not Windows), use of binary files in proprietary format for the lexical glossing database, an interface that forces sequential processing of texts, and lack of Unicode support.  A great tool when it was released, but now left to rest in peace.
 # IT for Macintosh
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -567,6 +607,7 @@ Obsolete, due to its operating system (MS-DOS, not Windows), use of binary files
 Interlinear Text editor
 
 # ITF
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -585,6 +626,7 @@ A formatting package, built on TeX, that provides a variety of output layouts fo
 #### Cons
 Originally released in the 1990s; I have no idea how well it would work with TeX systems now (2006).  I formatted a couple dozen interlinear texts with it at one time and found that it required quite a bit of knowledge of TeX.  If it still worked, it could still be useful if one knew TeX, but that is a formidable step that would probably discourage most users.
 # ITP
+
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -598,6 +640,7 @@ Originally released in the 1990s; I have no idea how well it would work with TeX
 IT (pronounced "eye-tee") is a set of software tools for developing a corpus of annotated interlinear texts. IT performs two main tasks: (1) it maintains the vertical alignment of the interlinear annotations, and (2) it stores all word and morpheme annotations in a lexical database thus enabling semi-automatic glossing. IT supports up to 14 levels of aligning text annotations and up to 8 different freeform (nonaligning) annotations. The interlinear text file produced by IT is a plain ASCII text file that is accessible to other text-processing software.
 
 # KPML
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | University of Bremen |
@@ -609,6 +652,7 @@ IT (pronounced "eye-tee") is a set of software tools for developing a corpus of 
 Natural Language Generation Linguistic Resource Development and Maintenance workbench for large scale generation grammar development, teaching, and experimental generation. Based on systemic-functional linguistics. Descendent of the Penman NLG system.
 
 # Keyman
+
 | Unicode Compliant | Full unicode support |
 | Submitted | 2004-06-03 |
 | Updated | 2008-01-31 |
@@ -631,6 +675,7 @@ Very flexible tool for developing custom input keyboards, particularly important
 #### Cons
 Version 6.2 is no longer freeware but still quite inexpensive, and available at discounted prices for educational use and in developing countries.
 # Kirrkirr
+
 | Unicode Compliant | Fully compliant |
 | Submitted | 2006-06-20 |
 | Updated | 2008-01-31 |
@@ -647,6 +692,7 @@ Version 6.2 is no longer freeware but still quite inexpensive, and available at 
 A tool for dictionary visualization and exploration. Provides facilities for searching and exploring dictionaries by following relationships, exploring semantic domains, doing searches and playing games. Supports pictures and sounds.
 
 # Ktagger
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -659,6 +705,7 @@ A tool for dictionary visualization and exploration. Provides facilities for sea
 A part-of-speech tagger based on PC-KIMMO.
 
 # Ktext
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -671,6 +718,7 @@ A part-of-speech tagger based on PC-KIMMO.
 Text analysis with PC-KIMMO parser
 
 # Kura 2.0-1-2.1.2
+
 | Unicode Compliant | Fully compliant |
 | Submitted | 2004-12-13 |
 | Updated | 2008-01-31 |
@@ -692,6 +740,7 @@ Kura is developed in Python, with some third party extension modules for the GUI
 (Taken from Kura website, 2004).
 
 # LINGOES
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://database.cs.wayne.edu/proj/lingoes/ |
@@ -701,6 +750,7 @@ Kura is developed in Python, with some third party extension modules for the GUI
 LINGuistic Ontology managEment System (LINGOES) is a framework to enable linguists to take full advantage of the Semantic Web technologies. Together with OntoGloss, a text annotation tool, and an RDF database with versioning and querying capabilities, it allows a linguist to markup any document with classes in one or more ontologies at the morpheme’s level.
 
 # LT CHUNK
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Language Technology Group |
@@ -711,6 +761,7 @@ LINGuistic Ontology managEment System (LINGOES) is a framework to enable linguis
 a surface parser which identifies noun groups and verb groups
 
 # LT PLEUK
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-04 |
 | Developer | Language |
@@ -720,6 +771,7 @@ a surface parser which identifies noun groups and verb groups
 grammar development shell
 
 # LT POS
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://www.ltg.ed.ac.uk/software/pos/index.html |
@@ -729,6 +781,7 @@ grammar development shell
 part of speech tagger
 
 # LT TTT
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://www.ltg.ed.ac.uk/software/ttt/index.html |
@@ -738,6 +791,7 @@ part of speech tagger
 a text tokenization system and toolset which enables users to produce a swift and individually-tailored tokenisation of text.
 
 # LT XML
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | McKelvie, Brew, & Thompson |
@@ -750,6 +804,7 @@ a text tokenization system and toolset which enables users to produce a swift an
 The LT XML tool-kit includes stand-alone tools for a wide range of processing of well-formed XML documents, including searching and extracting, down-translation (e.g. report generation, formatting), tokenising and sorting.
 
 # Lexique Pro
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -761,6 +816,7 @@ The LT XML tool-kit includes stand-alone tools for a wide range of processing of
 Interactive lexicon viewer
 
 # LinguaLinks Workshops
+
 | Unicode Compliant | Fully compliant |
 | Submitted | 2004-12-14 |
 | Updated | 2008-01-31 |
@@ -778,6 +834,7 @@ The Linguistics Workshop component of LinguaLinks includes tools to help you ana
 (Taken from website)
 
 # Linguistic Tree Constructor
+
 | Submitted | 2005-09-14 |
 | Updated | 2008-01-31 |
 | Developer | Ulrik Petersen |
@@ -794,6 +851,7 @@ The Linguistics Workshop component of LinguaLinks includes tools to help you ana
 Linguistic Tree Constructor (LTC) is a tool for drawing lingusitic syntax tree analyses of text. LTC supports "generic" trees, X-bar, and RRG trees. User-defined labeling of each node is supported. Left-to-right and right-to-left languages are supported.
 
 # Macquirer and Pcquirer
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://liceu.uab.es/~joaquim/phonetics/fon_anal_acus/herram_anal_acus.html#Macquirer |
@@ -803,6 +861,7 @@ Linguistic Tree Constructor (LTC) is a tool for drawing lingusitic syntax tree a
 capture, edit, and analyze audio signals with a click of a button. The analysis functions include FFT/LPC, Spectrogram, intensity, and pitch.
 
 # MediaTagger
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Max Planck Institute for Psycholinguistics |
@@ -813,6 +872,7 @@ capture, edit, and analyze audio signals with a click of a button. The analysis 
 Multi-tier video annotation tool based on Quicktime, running on Mac, MediaTagger is a tool for transcription and coding, and subsequent analysis of digital video recordings.
 
 # Microsoft Office Access
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-07 |
 | Updated | 2008-01-31 |
@@ -826,6 +886,7 @@ Multi-tier video annotation tool based on Quicktime, running on Mac, MediaTagger
 Access is used by small businesses, within departments of large corporations, and hobby programmers to create ad hoc customized desktop systems for handling the creation and manipulation of data. Access is not designed to build full web or browser based systems - tools like PHP/MySQL or Microsoft SQL Server or ASP or Alpha Five are better suited for this.
 
 # Microsoft Office Excel
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
@@ -859,6 +920,7 @@ To use these you would have to create and manage all the data structure yourself
 
 There are limits to the number of records that could be added (about 65000) so you would either need to split larger lexicons. There are also limits on the number of fields that can be used to describe each lexeme, though these are less likely to be a limiting factor.
 # Microsoft Transliteration Utility v1.0 (TU)
+
 | Submitted | 2006-01-30 |
 | Updated | 2008-01-31 |
 | Developer | Microsoft |
@@ -872,6 +934,7 @@ There are limits to the number of records that could be added (about 65000) so y
 The Microsoft Transliteration Utility is a tool for transliterating one natural language script to another. It is intended to support all scenarios that involve an entirely mechanical mapping of strings encoding natural language data in one format to strings encoding that data in another format. It also has a feature that allows the creating, editing, debugging and testing of modules that define the transliteration.
 
 # Microsoft Word
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
@@ -886,6 +949,7 @@ The Microsoft Transliteration Utility is a tool for transliterating one natural 
 Microsoft Word gives you everything you need to create professional-looking documents, communicate your ideas, and share information—on the printed page or across intranets and the Internet.
 
 # MonoConc Pro
+
 | Unicode Compliant | unknown |
 | Submitted | 2004-02-09 |
 | Updated | 2008-01-31 |
@@ -915,6 +979,7 @@ Impossible to save partial results,
 
 totally ASCII throughout.
 # NLTK
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2007-03-15 |
@@ -929,6 +994,7 @@ totally ASCII throughout.
 NLTK, the Natural Language Toolkit, is a suite of program modules, data sets and tutorials supporting research and teaching in computational linguistics and natural language processing. NLTK is ideally suited to students who are learning NLP (natural language processing) or conducting research in NLP or closely related areas, including empirical linguistics, cognitive science, artificial intelligence, information retrieval, and machine learning. NLTK has been used successfully as a teaching tool, as an individual study tool, and as a platform for prototyping and building research systems.
 
 # ORE (OLAC repository editor)
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-06 |
 | Developer | OLAC |
@@ -938,6 +1004,7 @@ NLTK, the Natural Language Toolkit, is a suite of program modules, data sets and
 Online tool for language archivists who want to create an OLAC (Open Language Archives Community) data provider
 
 # OntoElan
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-06 |
 | Developer | E-MELD |
@@ -947,6 +1014,7 @@ Online tool for language archivists who want to create an OLAC (Open Language Ar
 MPI's Elan + an ontology-based terminology mapper. Features: (1) the support for OWL ontologies; (2) the management of language profiles, which allow the user to choose a subset of ontological terms for annotation; (3) the management of ontological tiers, which can be annotated with language profile terms and, therefore, corresponding ontological terms; and (4) storing OntoELAN annotation documents in XML format based on multimedia and domain ontologies.
 
 # OntoLing Tab
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-06 |
 | URL | http://ai-nlp.info.uniroma2.it/software/OntoLing/ |
@@ -955,6 +1023,7 @@ MPI's Elan + an ontology-based terminology mapper. Features: (1) the support for
 The OntoLing Tab is a plug-in that allows for linguistic enrichment of Ontologies. It features functionalities for: browsing linguistic resources (thesauri, dictionaries, wordnets...), linguistically enriching ontologies with elements from these linguistic resources, and building new ontologies, starting from existing linguistic resources
 
 # Onze Miner
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://www.ling.canterbury.ac.nz/jen/onzeminer/ |
@@ -965,6 +1034,7 @@ The OntoLing Tab is a plug-in that allows for linguistic enrichment of Ontologie
 Uses Transcriber (free, 3rd-party software tool for creating and edited time-aligned transcripts - these are XML documents that line up transcript text with the corresponding part of the audio recording. For more info see http://trans.sourceforge.net/en/presentation.php) and Praat (http://www.praat.org –a free 3rd-party software tool for acoustic analysis) ONZE Miner is essentially a database for time-aligned transcripts of audio recordings.  Time-aligned transcripts are produced using Transcriber, which creates an XML document lining up the transcript text with the corresponding location in the audio recording. The transcript is then uploaded to ONZE Miner, which allows additional information about the speakers and the transcripts to be stored. ONZE Miner is a browser-based linguistics research tool that stores audio recordings and text transcripts of interviews. The transcripts can be searched for particular text or regular expressions. The search results, or entire transcripts, can be viewed or saved in a variety of formats, and the related parts of the audio recordings can be played or opened in acoustic analysis software, all directly through the web-browser.
 
 # OpenOffice.org
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
@@ -979,6 +1049,7 @@ Uses Transcriber (free, 3rd-party software tool for creating and edited time-ali
 OpenOffice.org Version 1 was the first product to deliver the benefits of open-source software to mass-market users, delivering essential everyday software tools completely free of charge. Translated into over 30 languages, available on all major computing platforms (Microsoft Windows, Mac OS X X11, GNU/Linux, Solaris), OpenOffice.org Version 1 is now in use by tens of millions of delighted users worldwide. With Version 2, it gets even better, and it can still read all Microsoft Office files.
 
 # PAWS starter kit
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -989,6 +1060,7 @@ OpenOffice.org Version 1 was the first product to deliver the benefits of open-s
 Parser and Writer for Syntax
 
 # PC-KIMMO
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -999,6 +1071,7 @@ Parser and Writer for Syntax
 Two-level morphological analyzer
 
 # PC-PATR
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1011,6 +1084,7 @@ Two-level morphological analyzer
 Syntactic parser
 
 # PC-Parse
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1023,6 +1097,7 @@ Syntactic parser
 PC parsing programs (AMPLE, STAMP, PC-KIMMO, PC-PATR, etc.)
 
 # PCQuirerX
+
 | Submitted | 2006-12-07 |
 | Updated | 2006-12-21 |
 | Developer | SCICON R&D, Inc. |
@@ -1035,6 +1110,7 @@ PC parsing programs (AMPLE, STAMP, PC-KIMMO, PC-PATR, etc.)
 EEG analysis with velocity and acceleration functions; Reads many audio data types; Direct plot formant function from formant tracking in the spectrogram window. The plot formant data can be saved as separate file for future processing.
 
 # PTP
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1052,6 +1128,7 @@ General-purpose programmable text editor for manipulating non-Unicode text files
 #### Cons
 Originally written for computers with very limited capabilities (e.g. as little as 32Kb of memory).  As a result, is cryptic and difficult to use.  MUCH better tools exist now (2006).
 # PamSurv
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1062,6 +1139,7 @@ Originally written for computers with very limited capabilities (e.g. as little 
 Palm software to allow collection of wordlists in the field. Uses WordSurv or analysis.
 
 # Peak LE
+
 | Submitted | 2006-12-07 |
 | Updated | 2006-12-21 |
 | Developer | BIAS |
@@ -1075,6 +1153,7 @@ Do you buy CDs or listen to the radio? Go to the movies or play video games? Eve
 Peak LE 5 makes great-sounding audio easy and affordable.
 
 # Peak Pro
+
 | Unicode Compliant | (e.g. fully compliant) |
 | Submitted | 2006-12-07 |
 | Updated | 2006-12-21 |
@@ -1090,6 +1169,7 @@ Peak LE 5 makes great-sounding audio easy and affordable.
 Fastest and most powerful nondestructive & destructive sample accurate mono and stereo editing, processing, and CD mastering application for OS X; unlimited undo/redo; Up to 32-bit 10MHz, including 24 bit 96KHz (HD)
 
 # PhoneBox
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1101,6 +1181,7 @@ Fastest and most powerful nondestructive & destructive sample accurate mono and 
 Utility for phonological analysis using language data structured by Standard Format Markers.
 
 # Pitchworks
+
 | Submitted | 2006-12-07 |
 | Updated | 2006-12-21 |
 | Developer | SCICON R&D, Inc. |
@@ -1113,6 +1194,7 @@ Utility for phonological analysis using language data structured by Standard For
 PitchWorks is the main tool for any intonation studies, with very easy user interface. It uses two methods of pitch extraction, Cepstral and Autocorrelation.. PitchWorks is designed for up to 10 levels of tiers for TOBI style labeling, with virtually unlimited number of labels in each tier. Labels can be of different fonts, colors or sizes. The tier information can be extracted to a log file by click of mouse.  Each screen can be saved as a bitmap for direct entry into word document. Pitch Works reads many different file types of any size.
 
 # Praat
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-04 |
 | Developer | Paul Boersma |
@@ -1124,6 +1206,7 @@ PitchWorks is the main tool for any intonation studies, with very easy user inte
 The Praat system offers a variety of nice tools for interacting with speech data, including tools for transcribing and annotating on multiple tiers.
 
 # RSTTool
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-04 |
 | URL | http://www.wagsoft.com/RSTTool/index.html |
@@ -1132,6 +1215,7 @@ The Praat system offers a variety of nice tools for interacting with speech data
 RSTTool is a graphical interface for marking up the structure of text. While primarily intended to be used for Rhetorical Structure (cf. Rhetorical Structure Theory (RST): Mann & Thompson 1988), the tool also allows the mark-up of constituency-style analysis, as in the Generic Structure Potential (GSP - cf. Hasan 1984; Halliday & Hasan 1985). Windows, Macintosh, UNIX and LINUX operating systems (requires the pre-installation of Tcl/Tk, a scripting language engine). The Tool consists of four interfaces: Text Segmentation: for marking the boundaries between text segments; Text Structuring: for marking the structural relations between these segments; Relation Editor: for maintaining the set of discourse relations, and schemas. Statistics: for deriving simple descriptive statistics based on your analysis.
 
 # Rook
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1143,6 +1227,7 @@ RSTTool is a graphical interface for marking up the structure of text. While pri
 Grammar authoring
 
 # SIL FieldWorks
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1153,6 +1238,7 @@ Grammar authoring
 Data management tool for language and cultural fieldwork using Graphite.
 
 # SIL Speech Tools
+
 | Submitted | 2006-12-07 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1165,6 +1251,7 @@ Data management tool for language and cultural fieldwork using Graphite.
 Speech Tools consists of three pieces of software; Speech Analyzer, Phonology Assistant, and IPA Help. Speech Analyzer can transcribe files with the IPA, play at different speeds, and add transcriptions in an interlinear format, as well as import data from FindPhone and Shoebox. Phonology Assistant can manage transcribed Speech Analyzer files as well as other corpora; it allows the user to view a chart of all the phonemes in a given corpus, and carry out phonological queries. IPA Help is designed to help the user learn to read and produce the sounds of the International Phonetic Alphabet.
 
 # Shoebox
+
 | Unicode Compliant | No |
 | Submitted | 2004-01-29 |
 | Updated | 2008-01-31 |
@@ -1187,6 +1274,7 @@ Shoebox is a computer program that helps field linguists and anthropologists int
 #### Pros
 While Shoebox itself is not Unicode compliant, its successor Toolbox (http://www.sil.org/computing/toolbox/) is Unicode compliant, and provides full support for upgrading from Shoebox.
 # SignStream
+
 | Submitted | 2006-12-07 |
 | Updated | 2008-01-31 |
 | Developer | American Sign Language Linguistic Research Project |
@@ -1200,6 +1288,7 @@ While Shoebox itself is not Unicode compliant, its successor Toolbox (http://www
 SignStream is a database tool for analysis of linguistic data captured on video. Although SignStream is being designed specifically for working with data from American Sign Language, the tool may be applied to any kind of language data captured on video. In particular, SignStream would be suited to the study of other signed languages as well as to studies that include the gestural component of spoken languages. SignStream provides a single environment for manipulating digital video and linking specific frame sequences to simultaneously occurring linguistic events encoded in a fine-grained multi-level transcription. Items from different fields are vertically aligned to reflect their temporal relations. Not only does SignStream greatly simplify the transcription process and increase the accuracy of transcriptions (by virtue of the link of linguistic events with video frames), but it enhances the researcher's ability to perform linguistic analyses of various kinds. By providing sophisticated search capabilities, SignStream affords instant access to data. In addition, multiple utterances can be open at the same time, permitting side-by-side comparison of data.
 
 # Snack
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Kåre Sjölander |
@@ -1211,6 +1300,7 @@ SignStream is a database tool for analysis of linguistic data captured on video.
 Snack is a general toolkit to handle acoustic data with an emphasis on speech. It features real-time visualization, supports many file-formats, and is extensible. A speech signal viewer and phonetic label editor is included in the package. There is also a Snack "plug-in" for web browsers. Wavesurfer is a tool based on Snack.
 
 # SoundForge
+
 | Unicode Compliant | (e.g. fully compliant) |
 | Submitted | 2006-12-07 |
 | Updated | 2006-12-21 |
@@ -1226,6 +1316,7 @@ Snack is a general toolkit to handle acoustic data with an emphasis on speech. I
 DirectX and VST plugin support. Version 8 includes a vinyl restoration plug-in; Spectrum analysis tools
 
 # SoundSoap
+
 | Submitted | 2006-12-07 |
 | Updated | 2006-12-19 |
 | Developer | BIAS |
@@ -1238,6 +1329,7 @@ DirectX and VST plugin support. Version 8 includes a vinyl restoration plug-in; 
 "Reduces clicks & crackles, hiss, hum & buzzing, rumble & most other noise — without harming the audio you wish to preserve; Use SoundSoap's one-step Learn Noise button to automatically reduce noise — or use its manual controls for more advanced applications; Preserve Voice button helps reduce noise (and other audio) outside of the range of the human voice"
 
 # Speech Tools 1.5
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-06 |
 | Developer | SIL International |
@@ -1259,6 +1351,7 @@ IPAHelp allows self-training in IPA via clickable IPA chart. It can be downloade
 
 Listening to isolated segments via desktop speakers (and even via headphones), it is very difficult to perceive distinctions. The IPAHelp would be more useful with an extensive list of minimal pairs.
 # System Quirk
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://www.computing.surrey.ac.uk/SystemQ/ |
@@ -1269,6 +1362,7 @@ Listening to isolated segments via desktop speakers (and even via headphones), i
 The System Quirk family of applications are designed to aid in the production and maintenance of texts and terminologies. These applications are of specific relevance to computational linguists and language engineers.
 
 # Systemic Coder
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-06 |
 | URL | http://www.wagsoft.com/Coder/index.html |
@@ -1279,6 +1373,7 @@ The System Quirk family of applications are designed to aid in the production an
 Systemic Coder is a tool that facilitates the linguistic coding of corpus material, through the prompting of the user for relevant categories. Linguistic features are organised in terms of a systemic network -- an inheritance hierarchy-- to reduce the amount of coding effort. You first define your feature hierarchy, and then prompted to code the segements of the text according to the hierarchy. These codings can then be statistically analysed, either using the built-in comparative statistics programs, or by exporting the codings in a form readable by statistical packages.
 
 # TASX-environment
+
 | Unicode Compliant | Full |
 | Submitted | 2004-01-29 |
 | Updated | 2008-01-31 |
@@ -1305,6 +1400,7 @@ The complete TASX-environment consists of:
 - A corpus system for the distribution of language data via the internet, including interactive corpus query and multimodal data display in a standard web browser.
 
 # TATOE
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-06 |
 | URL | http://www.ipsi.fraunhofer.de/topas/english/cont-engin/tools/TATOE/ |
@@ -1313,6 +1409,7 @@ The complete TASX-environment consists of:
 Free concordancer and text-analysis/text-markup tool for Windows (TATOE = Text Analysis Tool with Object Encoding).
 
 # TECkit
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1323,6 +1420,7 @@ Free concordancer and text-analysis/text-markup tool for Windows (TATOE = Text A
 A toolkit for Text Encoding Conversion. TECkit is a low-level toolkit intended to be used by other applications that need to perform encoding conversions (e.g., when importing legacy data into a Unicode-based application). The primary component of the TECkit package is therefore a library that performs conversions; this is the "TECkit engine". The engine relies on mapping tables in a specific binary format (for which documentation is available); there is a compiler that creates such tables from a human-readable mapping description (a simple text file).
 
 # TIMIT
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://www.ldc.upenn.edu/Catalog/readme_files/timit.readme.html |
@@ -1332,6 +1430,7 @@ A toolkit for Text Encoding Conversion. TECkit is a low-level toolkit intended t
 Annotation graphs
 
 # TMPGEnc
+
 | Unicode Compliant | n/a |
 | Submitted | 2004-04-22 |
 | Updated | 2004-04-22 |
@@ -1353,6 +1452,7 @@ TMPGEnc enables us adjust bitrate, quantize matrix, GOP structure, Interlace and
 TMPGEnc is free but see the license page <http://www.tmpgenc.net/e_license.html>
 
 # Text Analysis
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1370,6 +1470,7 @@ Flexible manipulation of data using SIL standard format (e.g. as used in Shoebox
 #### Cons
 Not Unicode compatible.  Non-graphical and idiosyncratic interface typical of MS-DOS software around 1990.  Might still be useful now (2006), but better tools exist for most of the functions in the package.
 # Text Analysis Markup System (TAMS) Analyzer
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://tamsys.sourceforge.net/osxtams/ |
@@ -1381,6 +1482,7 @@ Not Unicode compatible.  Non-graphical and idiosyncratic interface typical of MS
 TAMS Analyzer is a program that lets you select passages of a text and just code them by double clicking the name of the code on a list. It then allows you to extract and save coded information. TAMS command line program let's you extract marked up text files for analysis by a database or spreadsheet program. Both are released under GPL Multimedia support turns TAMS into a digital transcription machine
 
 # TextUtils
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1391,6 +1493,7 @@ TAMS Analyzer is a program that lets you select passages of a text and just code
 Text utilities
 
 # The MATE workbench
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | URL | http://www.ltg.ed.ac.uk/software/mate |
@@ -1401,6 +1504,7 @@ Text utilities
 A parametrisable XML editor based around using stylesheets to specify the appearance and behaviour of the editor. A prototype system.
 
 # Toolbox
+
 | Unicode Compliant | Limited, see caveats above |
 | Submitted | 2004-07-17 |
 | Updated | 2008-01-31 |
@@ -1488,6 +1592,7 @@ Version 1.4 has corrected many of the problems noted by Claire Bowern in her com
 #### Cons
 Dialogue boxes that allow input of Unicode data still behave in non-standard and clumsy ways, in an early attempt to retain compatibility with Windows 9x operating systems.  A new version is in preparation that will correct this problem and which will also run on Macintosh computers.
 # Toolbox
+
 | Unicode Compliant | Limited, see caveats above |
 | Submitted | 2004-07-17 |
 | Updated | 2008-01-31 |
@@ -1506,6 +1611,7 @@ Toolbox is built on Shoebox 5, and is upward compatible with Shoebox. It adds Un
 XML export is supported, BUT there is no verification of correctness.
 
 # Transana
+
 | Unicode Compliant | (e.g. fully compliant) |
 | Submitted | 2005-04-17 |
 | Updated | 2008-01-31 |
@@ -1528,6 +1634,7 @@ According to Thomas Schmidt,
 see http://annotation.exmaralda.org/index.php/Transana_%28Review%29
 for a review of Transana
 # Transcriber
+
 | Unicode Compliant | Yes |
 | Submitted | 2005-02-11 |
 | Updated | 2008-01-31 |
@@ -1565,6 +1672,7 @@ see
 http://annotation.exmaralda.org/index.php/Transcriber_%28Review%29
 for a review of transcriber
 # Transformation-Based Part of Speech Tagger
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Eric Brill |
@@ -1576,6 +1684,7 @@ for a review of transcriber
 rule-based part-of-speech tagging
 
 # TypeTool
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
@@ -1590,6 +1699,7 @@ rule-based part-of-speech tagging
 TypeTool is a basic font editor for Mac OS and for Windows. For students, hobby typographers and creative professionals who occasionally need to create or customize fonts. Add ligatures, old style figures, fractions, currency symbols, correct em dashes, apostrophes, quotation marks and foreign characters to your fonts.
 
 # Ukelele
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
@@ -1604,6 +1714,7 @@ TypeTool is a basic font editor for Mac OS and for Windows. For students, hobby 
 Ukelele is a Unicode Keyboard Layout Editor for Mac OS X versions 10.2 and later. Ukelele aims to simplify keyboard layout editing by providing a graphical interface to .keylayout files, where the desired characters can simply be dragged onto keys as needed. (The Character Palette, available in the Input menu if it has been enabled in System Preferences, is a great place to find the characters.) In addition to simple assignment of single character codes to keys, Ukelele can assign multiple-character strings and can create "dead keys", where a keystroke sets a new state that modifies the output of the following keystroke.
 
 # Uniscribe
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
@@ -1616,6 +1727,7 @@ Ukelele is a Unicode Keyboard Layout Editor for Mac OS X versions 10.2 and later
 Uniscribe is the Microsoft Windows set of services for rendering Unicode-encoded text. They are implemented in the DLL USP10.DLL. USP10.dll became available to the public with Windows 2000 and Internet Explorer 5.0. In addition, the Windows CE platform has supported Uniscribe since version 5.0. Uniscribe is a collection of APIs that enables a text layout client to format complex scripts. Uniscribe supports the complex rules found in scripts such as Arabic, Indian, and Thai. Uniscribe also handles scripts written from right-to-left such as Arabic or Hebrew, and supports the mixing of scripts.
 
 # VideoStudio
+
 | Unicode Compliant | n/a |
 | Submitted | 2004-04-22 |
 | Updated | 2004-04-22 |
@@ -1632,6 +1744,7 @@ Uniscribe is the Microsoft Windows set of services for rendering Unicode-encoded
 Used for digitizing VHS tapes and editing the video output.
 
 # VoiceWalker
+
 | Submitted | 2004-12-14 |
 | Updated | 2004-12-14 |
 | Developer | NA |
@@ -1649,6 +1762,7 @@ VoiceWalker 2.0 is basically a glorified digital tape deck. Yet it has the added
 (Taken from website)
 
 # WaveSurfer
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | Jonas Beskow & Kåre Sjölander |
@@ -1676,6 +1790,7 @@ For the purposes of segmentation and labelling of speech, WaveSurfer is "son of 
 #### Cons
 It has no facility for scripting, unlike Praat. But otherwise I can't think of any disadvantages, and for manual segmentation/labelling I have found WaveSurfer the best tool to use.
 # WinCecil
+
 | Submitted | 2005-08-21 |
 | Updated | 2008-01-31 |
 | Developer | SIL International |
@@ -1688,6 +1803,7 @@ It has no facility for scripting, unlike Praat. But otherwise I can't think of a
 Speech analysis software
 
 # WinPitchPro
+
 | Unicode Compliant | Fully compliant |
 | Submitted | 2004-02-11 |
 | Updated | 2008-01-31 |
@@ -1705,6 +1821,7 @@ Speech analysis software
 Multimodal transcription and alignment software, with built in acoustical analysis (spectrogram, fundamental frequency tracking, intensity) and re-synthesis (prosodic morphing). Variable speed playback, assisted text to speech alignment.  Direct XML and Excel output, fully Unicode compliant.
 
 # Word Frequency Text Profiler
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-06 |
 | URL | http://www.edict.com.hk/textanalyser/ |
@@ -1714,6 +1831,7 @@ Multimodal transcription and alignment software, with built in acoustical analys
 Word frequency text analysis. Word frequency text profiling can be used in many ways to support teaching, learning and research. The Word Profiler compares all the words in a text with two word frequency lists, it provides a visual profile of the distribution of these words in a text by printing the different frequency bands in different colours.
 
 # WordSurv
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
@@ -1727,6 +1845,7 @@ Word frequency text analysis. Word frequency text profiling can be used in many 
 A typical language survey may involve determining linguistic relationships through the comparison of word lists. WordSurv is designed to aid in this task. It functions in three main areas: (1) entry and maintenance of word lists and cognate decisions, (2) computation of lexicostatistic and phonostatistic measures of similarity, and (3) output of data and results in various formats. WordSurv also supports the COMPASS algorithm to aid in comparative reconstruction.
 
 # Wordcorr
+
 | Unicode Compliant | fully compliant, simple IPA keyboard input |
 | Submitted | 2004-12-19 |
 | Updated | 2008-01-31 |
@@ -1744,6 +1863,7 @@ A typical language survey may involve determining linguistic relationships throu
 Wordcorr, a new tool for research and teaching in comparative linguistics, is now in production release 2.0 for Windows 98/2000/XP. It can be downloaded free from http://www.sourceforge.net/projects/wordcorr. The University of Hawai`i at Mānoa's Linguistics department, SIL International, and DataHouse Inc. of Honolulu, collaborated to produce Wordcorr under a grant from the National Science Foundation's Information Technology Research initiative and the Linguistics Program. Wordcorr automates the tedious and risky process of tabulating and managing the sound correspondences used in working out the historical development of natural languages. Data can be input from the keyboard and edited in full Unicode, or imported from other Wordcorr users, spreadsheets, WordSurv, and Palmsurv; they are backed up by exporting the internal Wordcorr database including analyses in zipped XML files that facilitate file sharing, for example by research teams or in linguistics classes. It gives access to all the data, all the time. A more detailed overview will be available soon on http://www.wordcorr.org. Investigators of endangered languages whose classification is still uncertain will profit from Wordcorr's rapidity and flexibility, allowing alternate hypotheses to be tested simultaneously.
 
 # XLE
+
 | Submitted | 2005-08-21 |
 | Updated | 2005-09-06 |
 | URL | http://www2.parc.com/istl/groups/nltt/xle/ |
@@ -1752,6 +1872,7 @@ Wordcorr, a new tool for research and teaching in comparative linguistics, is no
 The Xerox Linguistics Environment is a tool for parsing and generating Lexical Functional Grammars. The software runs on Linux, Unix, Solaris and Mac OS X; currently the basis for the Parallel Grammar Project (URL: http://www2.parc.com/istl/groups/nltt/pargram/), which is developing industrial-strength grammars for English, French, German, Norwegian, \\Japanese, and Urdu
 
 # XMLspy
+
 | Unicode Compliant | Yes |
 | Submitted | 2006-12-12 |
 | Updated | 2008-01-31 |
@@ -1766,6 +1887,7 @@ The Xerox Linguistics Environment is a tool for parsing and generating Lexical F
 Altova XMLSpy 2007 delivers all the power you need to create the most advanced XML applications, yet at the same time it's flexible enough to allow you to work with XML using the views and options that best suit your specific requirements and preferences. XMLSpy 2007 increases productivity by allowing you to develop higher quality, standards-conformant XML-based applications more quickly than ever before. XMLSpy 2007 abstracts away the complexity of XML and related technologies through its intuitive user interface and rich variety of editing views and options that simplify and accelerate application development.
 
 # ZECKE
+
 | Unicode Compliant | fully compliant |
 | Submitted | 2006-05-24 |
 | Updated | 2008-01-31 |
@@ -1783,6 +1905,7 @@ Altova XMLSpy 2007 delivers all the power you need to create the most advanced X
 KWIC Concordancing tool for spoken language transcriptions in EXMARaLDA format. Allows regular expression string matching on transcribed material. Displays results as a KWIC concordance with the possibility to display the search result in context in a musical score representation of the transcript and to playback the corresponding part of the transcribed audio or video recording. Prototype, but fully functional.
 
 # digidesign ProTools
+
 | Submitted | 2007-09-11 |
 | Updated | 2007-09-12 |
 | Developer | digidesign |
@@ -1796,6 +1919,7 @@ KWIC Concordancing tool for spoken language transcriptions in EXMARaLDA format. 
 ProTools is an audio recording/editing software/hardware combination use by audio engineers and is available from many sources. (see - www.digidesign.com ) The software is relatively easy to use and the manuals & tutorials straight forward with excellent help available. Formats are for both working & archival (import & export -wav , aif , acc & more) and is suitable for both field & office environments.
 
 # jEdit
+
 | Unicode Compliant | fully compliant |
 | Submitted | 2004-07-21 |
 | Updated | 2008-01-31 |
@@ -1811,6 +1935,7 @@ ProTools is an audio recording/editing software/hardware combination use by audi
 jEdit is a programmer's text editor written in Java. It uses the Swing toolkit for the GUI and can be configured as a rather powerful IDE through the use of its plugin architecture.
 
 # syncWRITER
+
 | Unicode Compliant | (e.g. fully compliant) |
 | Submitted | 2006-12-07 |
 | Updated | 2008-01-31 |
